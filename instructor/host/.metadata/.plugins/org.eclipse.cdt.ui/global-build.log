@@ -1,0 +1,52 @@
+19:59:27 **** Clean-only build of configuration Debug for project ASCII ****
+rm -rf ASCII.d ASCII.o ASCII.exe 
+19:59:27 **** Clean-only build of configuration Debug for project Average ****
+rm -rf main_new.d Average.exe main_new.o 
+19:59:27 **** Clean-only build of configuration Debug for project WhileLoop1to10 ****
+rm -rf main.d main.o WhileLoop1to10.exe 
+19:59:28 **** Clean-only build of configuration Debug for project bitWise2Numbers ****
+rm -rf bitWise2Numbers.exe main.o main.d 
+19:59:28 **** Clean-only build of configuration Debug for project bitWiseEvenOdd ****
+rm -rf main.d bitWiseEvenOdd.exe main.o 
+19:59:28 **** Clean-only build of configuration Debug for project bitWiseSet ****
+rm -rf bitWiseSet.exe main.d main.o 
+19:59:29 **** Clean-only build of configuration Debug for project constdata ****
+rm -rf main.d main.o constdata.exe 
+19:59:29 **** Clean-only build of configuration Debug for project dataAlignment ****
+rm -rf dataAlignment.exe main.d main.o 
+19:59:29 **** Clean-only build of configuration Debug for project forLoopEvenNum ****
+rm -rf main.o main.d forLoopEvenNum.exe 
+19:59:29 **** Clean-only build of configuration Debug for project forloopNumberPyramid ****
+rm -rf main.o forloopNumberPyramid.exe main.d 
+19:59:30 **** Clean-only build of configuration Debug for project function ****
+rm -rf function.o function.exe function.d 
+19:59:30 **** Clean-only build of configuration Debug for project ifelseBiggestOfTwo ****
+rm -rf main.o ifelseBiggestOfTwo.exe main.d 
+19:59:30 **** Clean-only build of configuration Debug for project ifelseCastVote ****
+rm -rf main.o ifelseCastVote.exe main.d 
+19:59:31 **** Clean-only build of configuration Debug for project ifelseifTax ****
+rm -rf main.d main.o ifelseifTax.exe 
+19:59:31 **** Clean-only build of configuration Debug for project ifstatementCastVote ****
+rm -rf ifstatementCastVote.exe main.d main.o 
+19:59:31 **** Clean-only build of configuration Debug for project math ****
+rm -rf main.d main.o math.o math.exe math.d 
+19:59:32 **** Clean-only build of configuration Debug for project pointer ****
+rm -rf pointer.o pointer.d pointer.exe 
+19:59:32 **** Clean-only build of configuration Debug for project pointer_1 ****
+rm -rf pointer.d pointer_1.exe pointer.o 
+19:59:33 **** Clean-only build of configuration Debug for project pointer_2 ****
+rm -rf pointer.o pointer.d pointer_2.exe 
+19:59:33 **** Clean-only build of configuration Debug for project structInit ****
+rm -rf main.o structInit.exe main.d 
+19:59:33 **** Clean-only build of configuration Debug for project structPacket ****
+rm -rf main.d structPacket.exe main.o 
+19:59:34 **** Clean-only build of configuration Debug for project structPacketBitfield ****
+rm -rf main.d main.o structPacketBitfield.exe 
+19:59:34 **** Clean-only build of configuration Debug for project structPointer ****
+rm -rf main.d main.o structPointer.exe 
+19:59:34 **** Clean-only build of configuration Debug for project switchCaseArea ****
+rm -rf main.d main.o switchCaseArea.exe 
+19:59:34 **** Clean-only build of configuration Debug for project test ****
+rm -rf test.o test.d test.exe 
+19:59:35 **** Clean-only build of configuration Debug for project test2 ****
+rm -rf test.o test2.exe test.d 

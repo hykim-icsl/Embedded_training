@@ -1,0 +1,72 @@
+!SESSION 2020-03-06 19:46:56.070 -----------------------------------------------
+eclipse.buildId=Version 1.1.0
+java.version=1.8.0_202
+java.vendor=AdoptOpenJdk
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\workspace\Embedded_training\instructor\target
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2020-03-06 19:47:16.009
+!MESSAGE Log4j initialized with config file C:\workspace\Embedded_training\instructor\target\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2020-03-06 19:47:19.413
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2020-03-06 19:47:21.785
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2020-03-06 19:49:47.030
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2020-03-06 19:49:47.040
+!MESSAGE Falling back to default toolchain
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2020-03-06 19:49:47.065
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2020-03-06 19:49:47.073
+!MESSAGE Falling back to default toolchain
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2020-03-06 19:49:47.081
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2020-03-06 19:49:47.089
+!MESSAGE Falling back to default toolchain
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 4 4 2020-03-06 19:49:47.097
+!MESSAGE Type or version is empty: ; 
+
+!ENTRY com.st.stm32cube.ide.mcu.toolchain 2 2 2020-03-06 19:49:47.104
+!MESSAGE Falling back to default toolchain
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-03-06 19:49:58.637
+!MESSAGE Indexed '001HelloWorld' (3 sources, 51 headers) in 3.14 sec: 2,044 declarations; 2,687 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-03-06 19:50:02.341
+!MESSAGE Indexed '010led_toggle_bitfields' (3 sources, 53 headers) in 0.728 sec: 2,000 declarations; 2,811 references; 0 unresolved inclusions; 1 syntax errors; 1 unresolved names (0.021%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-03-06 19:50:02.984
+!MESSAGE Indexed '005led_toggle' (3 sources, 52 headers) in 0.583 sec: 1,936 declarations; 2,747 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-03-06 19:50:03.473
+!MESSAGE Indexed '003Add' (3 sources, 51 headers) in 0.474 sec: 2,047 declarations; 2,690 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-03-06 19:50:03.939
+!MESSAGE Indexed '006pin_read' (3 sources, 52 headers) in 0.45 sec: 1,937 declarations; 2,752 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-03-06 19:50:04.328
+!MESSAGE Indexed '011keypad' (3 sources, 54 headers) in 0.372 sec: 2,081 declarations; 2,954 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-03-06 19:50:04.690
+!MESSAGE Indexed '009packed_Vsnonpacked' (3 sources, 51 headers) in 0.35 sec: 2,050 declarations; 2,706 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-03-06 19:50:05.089
+!MESSAGE Indexed '007volatile' (3 sources, 52 headers) in 0.38 sec: 1,933 declarations; 2,738 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-03-06 19:50:05.560
+!MESSAGE Indexed '002Sizeof' (3 sources, 51 headers) in 0.454 sec: 2,044 declarations; 2,691 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-03-06 19:50:05.895
+!MESSAGE Indexed '004led_on' (3 sources, 52 headers) in 0.322 sec: 1,934 declarations; 2,741 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-03-06 19:50:06.262
+!MESSAGE Indexed '008button_ISR' (3 sources, 54 headers) in 0.351 sec: 2,089 declarations; 2,913 references; 0 unresolved inclusions; 1 syntax errors; 0 unresolved names (0%)

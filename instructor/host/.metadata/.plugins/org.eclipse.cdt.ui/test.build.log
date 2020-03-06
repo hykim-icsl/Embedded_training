@@ -1,0 +1,5 @@
+19:59:34 **** Clean-only build of configuration Debug for project test ****
+rm -rf test.o test.d test.exe 
+
+19:59:35 Build Finished. 0 errors, 0 warnings. (took 235ms)
+

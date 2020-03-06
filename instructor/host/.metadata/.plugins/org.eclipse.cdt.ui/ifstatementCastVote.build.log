@@ -1,0 +1,5 @@
+19:59:31 **** Clean-only build of configuration Debug for project ifstatementCastVote ****
+rm -rf ifstatementCastVote.exe main.d main.o 
+
+19:59:31 Build Finished. 0 errors, 0 warnings. (took 254ms)
+

@@ -1,0 +1,5 @@
+19:59:29 **** Clean-only build of configuration Debug for project dataAlignment ****
+rm -rf dataAlignment.exe main.d main.o 
+
+19:59:29 Build Finished. 0 errors, 0 warnings. (took 215ms)
+

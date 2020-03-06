@@ -1,0 +1,5 @@
+19:59:27 **** Clean-only build of configuration Debug for project Average ****
+rm -rf main_new.d Average.exe main_new.o 
+
+19:59:27 Build Finished. 0 errors, 0 warnings. (took 231ms)
+

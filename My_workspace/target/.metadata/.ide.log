@@ -1,0 +1,244 @@
+2020-03-06 19:53:18,936 [INFO] Activator:176 - 
+
+
+2020-03-06 19:53:18,939 [INFO] Activator:177 - !SESSION log4j initialized
+2020-03-06 20:10:03,514 [INFO] Activator:176 - 
+
+
+2020-03-06 20:10:03,517 [INFO] Activator:177 - !SESSION log4j initialized
+2020-03-06 20:10:24,303 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-03-06 20:10:24,326 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2020-03-06 20:10:24,332 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2020-03-06 20:10:24,335 [INFO] DbMcus:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-03-06 20:10:24,336 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-03-06 20:10:24,340 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2020-03-06 20:10:24,356 [INFO] DbMcusAds:72 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:24,358 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:24,362 [INFO] DbMcusJson:59 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:24,364 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:24,366 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:24,479 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-03-06 20:10:24,668 [INFO] RulesReader:52 - Compatibility file has been processed (179 Rules)
+2020-03-06 20:10:24,906 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_202
+2020-03-06 20:10:24,907 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2020-03-06 20:10:24,907 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2020-03-06 20:10:24,910 [INFO] DbMcus:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-03-06 20:10:24,910 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-03-06 20:10:24,911 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2020-03-06 20:10:24,911 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:24,912 [INFO] DbMcusAds:72 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:24,913 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:24,913 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:24,913 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:24,914 [INFO] DbMcusJson:59 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:24,914 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:24,914 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:24,915 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:24,915 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:24,915 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:24,916 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:24,916 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-03-06 20:10:25,062 [INFO] MainPanel:185 - HeapMemory: 325058560
+2020-03-06 20:10:25,164 [INFO] DbMcusXml:68 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/
+2020-03-06 20:10:25,164 [INFO] DbBoardsPdsc:54 - Set plugin database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/boardmanager/
+2020-03-06 20:10:25,164 [INFO] DbMcus:265 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-03-06 20:10:25,164 [INFO] DbBoards:232 - Set plugin images path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/
+2020-03-06 20:10:25,165 [INFO] APIGFXSelector:72 - Set database path to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/mcu/
+2020-03-06 20:10:25,165 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:25,166 [INFO] DbMcusAds:72 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:25,166 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:25,167 [INFO] DbMcusDocs:92 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:25,167 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:25,167 [INFO] DbMcusJson:59 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:25,167 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:25,167 [INFO] DbBoardsDocs:84 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:25,167 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:25,167 [INFO] DbBoardsJson:51 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/
+2020-03-06 20:10:25,168 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:25,168 [WARN] DbFile:31 - Overriding database path with different value: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder/ => C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder
+2020-03-06 20:10:25,168 [INFO] CrossReferenceDbSqlite:197 - Set database path to: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-03-06 20:10:25,199 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-03-06 20:10:25,201 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-03-06 20:10:25,202 [INFO] PluginManage:292 - Check plugin analytics
+2020-03-06 20:10:25,213 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-03-06 20:10:25,214 [INFO] PluginManage:292 - Check plugin clock
+2020-03-06 20:10:25,228 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-03-06 20:10:25,228 [INFO] PluginManage:292 - Check plugin ddr
+2020-03-06 20:10:25,232 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-03-06 20:10:25,233 [INFO] PluginManage:292 - Check plugin filemanager
+2020-03-06 20:10:25,486 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-03-06 20:10:25,487 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-03-06 20:10:25,517 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-03-06 20:10:25,518 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-03-06 20:10:25,542 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-03-06 20:10:25,543 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-03-06 20:10:25,592 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-03-06 20:10:25,593 [INFO] PluginManage:292 - Check plugin power
+2020-03-06 20:10:25,617 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-03-06 20:10:25,618 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-03-06 20:10:25,649 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-03-06 20:10:25,649 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-03-06 20:10:25,779 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/HYKim_lenovo/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 65 ms. number of Sw pack : 13
+2020-03-06 20:10:25,829 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-03-06 20:10:25,830 [INFO] PluginManage:292 - Check plugin tools
+2020-03-06 20:10:25,834 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-03-06 20:10:25,834 [INFO] PluginManage:292 - Check plugin updater
+2020-03-06 20:10:25,851 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-03-06 20:10:25,851 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-03-06 20:10:26,247 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-03-06 20:10:26,479 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,480 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-03-06 20:10:26,485 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,486 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-03-06 20:10:26,492 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,492 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-03-06 20:10:26,536 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,536 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-03-06 20:10:26,552 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,555 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-03-06 20:10:26,561 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,562 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-03-06 20:10:26,574 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,576 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-03-06 20:10:26,581 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,582 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-03-06 20:10:26,590 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,591 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-03-06 20:10:26,603 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,604 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-03-06 20:10:26,607 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,608 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-03-06 20:10:26,615 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,615 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-03-06 20:10:26,622 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,623 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-03-06 20:10:26,636 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,636 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-03-06 20:10:26,645 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,645 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-03-06 20:10:26,652 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,652 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-03-06 20:10:26,658 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,658 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-03-06 20:10:26,666 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,666 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-03-06 20:10:26,672 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,672 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-03-06 20:10:26,680 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,681 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-03-06 20:10:26,685 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,686 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-03-06 20:10:26,694 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,695 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-03-06 20:10:26,703 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,703 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-03-06 20:10:26,711 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,712 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-03-06 20:10:26,718 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,719 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-03-06 20:10:26,733 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,738 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-03-06 20:10:26,742 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,743 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-03-06 20:10:26,751 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,752 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-03-06 20:10:26,759 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,760 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-03-06 20:10:26,766 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,767 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-03-06 20:10:26,772 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,773 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-03-06 20:10:26,777 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,779 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-03-06 20:10:26,787 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,787 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-03-06 20:10:26,793 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,793 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-03-06 20:10:26,798 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,799 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-03-06 20:10:26,804 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,804 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-03-06 20:10:26,808 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,809 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-03-06 20:10:26,814 [INFO] IPUIPlugin:63 - create IPUIPlugin
+2020-03-06 20:10:26,815 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-03-06 20:10:28,624 [INFO] BoardConnectionPanel:220 - [DDR PANEL] osNameString: Windows
+2020-03-06 20:10:28,876 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2020-03-06 20:10:28,878 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-03-06 20:10:29,168 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-03-06 20:10:29,585 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-03-06 20:10:29,596 [INFO] PinOutPanel:1367 - setPackage(No Configuration,No Configuration)
+2020-03-06 20:10:29,597 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-03-06 20:10:29,604 [INFO] BoardConnectionPanel:3149 - [DDR PANEL] STM32CubeIDE environment
+2020-03-06 20:10:29,605 [INFO] MainDdrPanel:100 - [DDR PANEL] GETTER - cubeProgrammerPath is: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2020-03-06 20:10:29,619 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin\STM32_Programmer_CLI.exe -l
+2020-03-06 20:10:30,035 [INFO] MainDdrPanel:90 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.1.0.201910081157\tools\bin
+2020-03-06 20:10:30,048 [INFO] Updater:886 - Updater Version found : 5.4.0
+2020-03-06 20:10:30,091 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541
+2020-03-06 20:10:30,383 [INFO] MainUpdater:2232 - connection check result : 10
+2020-03-06 20:10:30,384 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-03-06 20:10:30,384 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.40
+2020-03-06 20:10:30,466 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-03-06 20:10:30,592 [INFO] MainUpdater:2232 - connection check result : 10
+2020-03-06 20:10:30,594 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-03-06 20:10:30,731 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-03-06 20:10:30,758 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-03-06 20:10:30,763 [INFO] DbMcusXml:106 - Load MCU database from C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/mcu/families.xml
+2020-03-06 20:10:32,128 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/HYKim_lenovo/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-03-06 20:10:32,220 [INFO] DbMcusJson:87 - JSON generation date=Wed Feb 26 17:53:47 KST 2020 (1582707227)
+2020-03-06 20:10:32,331 [INFO] ThirdPartyDb:294 - Open Third Party DataBase File (C:/Users/HYKim_lenovo/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 16 ms. number of Sw pack : 13
+2020-03-06 20:10:32,331 [INFO] ThirdPartyDb:264 - Close Third Party DataBase File (C:/Users/HYKim_lenovo/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-03-06 20:10:32,415 [INFO] IntegrityCheckThread:97 - End integrity checks thread
+2020-03-06 20:10:33,872 [INFO] DbMcus:193 - Found 1544 MCUs (1504 are supported by CubeMX, 1504 are visible in CubeMX)
+2020-03-06 20:10:33,873 [INFO] ApiDb:158 - Load user favorites file C:\Users\HYKim_lenovo/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2020-03-06 20:10:33,873 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-03-06 20:10:33,873 [INFO] DbMcus:204 - Set 0 / 0 favorites MCUs
+2020-03-06 20:10:35,043 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 26 18:53:47 KST 2020 (1582710827)
+2020-03-06 20:10:35,046 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-03-06 20:10:35,096 [INFO] McuDetailPanel:180 - Set advertising image to C:/Users/HYKim_lenovo/STM32Cube/Repository/\ST13661_PRSTM32MP10219-01.jpg
+2020-03-06 20:10:36,019 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-03-06 20:10:36,254 [INFO] DbBoardsPdsc:92 - Found 19 items
+2020-03-06 20:10:36,256 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-03-06 20:10:36,261 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-03-06 20:10:36,263 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-03-06 20:10:36,269 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-03-06 20:10:36,275 [INFO] DbBoardsPdsc:92 - Found 38 items
+2020-03-06 20:10:36,278 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-03-06 20:10:36,352 [INFO] DbBoardsJson:79 - JSON generation date=Tue Feb 11 22:53:55 KST 2020 (1581429235)
+2020-03-06 20:10:36,363 [INFO] DbBoards:120 - Found 137 boards (132 are supported by CubeMX)
+2020-03-06 20:10:36,369 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Feb 26 17:53:47 KST 2020 (1582707227)
+2020-03-06 20:10:36,385 [INFO] DbBoardsDocs:57 - Found 173 boards documents
+2020-03-06 20:10:36,386 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-03-06 20:10:36,388 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-03-06 20:10:36,388 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-03-06 20:10:36,388 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-03-06 20:10:36,389 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-03-06 20:10:36,390 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-03-06 20:10:36,390 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-03-06 20:10:36,392 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-03-06 20:10:36,392 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-03-06 20:10:36,392 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-03-06 20:10:36,392 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-03-06 20:10:36,392 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-03-06 20:10:36,392 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-03-06 20:10:36,393 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-03-06 20:10:36,393 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-03-06 20:10:36,823 [ERROR] DbBoards:192 - Image file not found for board P-NUCLEO-WB55: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/p-nucleo-wb55_small.jpg
+2020-03-06 20:10:37,243 [ERROR] DbBoards:192 - Image file not found for board STM32G0316-DISCO: C:\ST\STM32CubeIDE_1.1.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_5.4.0.201910091541\\db\/plugins/mcufinder/images/boards/stm32g0316discovery_small.jpg
+2020-03-06 20:10:38,026 [ERROR] DbBoards:195 - No image file URL for board STM32H7B3I-DK
+2020-03-06 20:10:38,026 [ERROR] DbBoards:195 - No image file URL for board STM32H7B3I-EVAL
+2020-03-06 20:10:38,032 [INFO] ApiDb:158 - Load user favorites file C:\Users\HYKim_lenovo/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2020-03-06 20:10:38,033 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-03-06 20:10:38,033 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-03-06 20:10:38,150 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-03-06 20:10:38,151 [INFO] BoardDetailPanel:179 - Set advertising image to C:/Users/HYKim_lenovo/STM32Cube/Repository/\ST13661_PRSTM32MP10219-01.jpg
+2020-03-06 20:10:38,194 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-03-06 20:10:38,376 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: C:\Users\HYKim_lenovo\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2020-03-06 20:13:17,153 [INFO] BoardAction:78 - Docs & Resources
+2020-03-06 20:13:21,334 [INFO] ServerAccessManage:348 - Download File 
+2020-03-06 20:13:23,030 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-03-06 20:13:23,069 [INFO] BoardAction:180 - Large Picture
+2020-03-06 20:13:29,448 [INFO] BoardAction:78 - Docs & Resources
+2020-03-06 20:14:13,317 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-03-06 20:14:13,319 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-03-06 20:14:13,320 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0

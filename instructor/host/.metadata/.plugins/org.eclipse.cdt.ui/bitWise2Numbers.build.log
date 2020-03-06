@@ -1,0 +1,5 @@
+19:59:28 **** Clean-only build of configuration Debug for project bitWise2Numbers ****
+rm -rf bitWise2Numbers.exe main.o main.d 
+
+19:59:28 Build Finished. 0 errors, 0 warnings. (took 242ms)
+
